@@ -1,0 +1,6 @@
+D:\workspace\AutoGit\AutoGit\AutoGit\bin\Debug\AutoGit.exe.config
+D:\workspace\AutoGit\AutoGit\AutoGit\obj\Debug\AutoGit.csprojResolveAssemblyReference.cache
+D:\workspace\AutoGit\AutoGit\AutoGit\bin\Debug\AutoGit.exe
+D:\workspace\AutoGit\AutoGit\AutoGit\bin\Debug\AutoGit.pdb
+D:\workspace\AutoGit\AutoGit\AutoGit\obj\Debug\AutoGit.exe
+D:\workspace\AutoGit\AutoGit\AutoGit\obj\Debug\AutoGit.pdb

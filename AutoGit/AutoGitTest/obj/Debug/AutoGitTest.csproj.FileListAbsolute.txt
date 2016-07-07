@@ -1,0 +1,9 @@
+D:\workspace\AutoGit\AutoGit\AutoGitTest\obj\Debug\AutoGitTest.csprojResolveAssemblyReference.cache
+D:\workspace\AutoGit\AutoGit\AutoGitTest\bin\Debug\AutoGitTest.dll
+D:\workspace\AutoGit\AutoGit\AutoGitTest\bin\Debug\AutoGitTest.pdb
+D:\workspace\AutoGit\AutoGit\AutoGitTest\bin\Debug\AutoGit.exe
+D:\workspace\AutoGit\AutoGit\AutoGitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\workspace\AutoGit\AutoGit\AutoGitTest\bin\Debug\AutoGit.pdb
+D:\workspace\AutoGit\AutoGit\AutoGitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\workspace\AutoGit\AutoGit\AutoGitTest\obj\Debug\AutoGitTest.dll
+D:\workspace\AutoGit\AutoGit\AutoGitTest\obj\Debug\AutoGitTest.pdb
